@@ -4,19 +4,32 @@ Projeto de phishing com Kali Linux usando o Social Engineering Toolkit (SET) par
 
 
 Ferramentas usadas foram 	
+
+
+
 .Kali Linux
+
 .setoolkit
 
-Configurando o Phishing no Kali Linux
-Acesso root: sudo su
-Iniciando o setoolkit: setoolkit
-Tipo de ataque: Social-Engineering Attacks
+Tudo é pelo o terminal no kali linux se não estiver no root
+
+
+Acesse o root: usando SUDO SU
+
+Digita-se logo em seguida: setoolkit
+
+Tipo de ataque: Social-Engineering Attacks (1)
+
 Vetor de ataque: Web Site Attack Vectors
-Método de ataque: Credential Harvester Attack Method 
-Método de ataque: Site Cloner
+(2)
+
+Método de ataque: Credential Harvester Attack Method (3)
+
+Método de ataque: Site Cloner(2)
+
 Obtendo o endereço da máquina: ifconfig
 URL para clone: http://www.facebook.com
 
-Resutados
+Resutados foram os mesmos do professor
 
 ![passwd](https://github.com/user-attachments/assets/32692540-e9e9-49ea-a52a-ede1859a58dc)
