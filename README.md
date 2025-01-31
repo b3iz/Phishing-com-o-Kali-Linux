@@ -36,4 +36,5 @@ URL para clone: http://www.facebook.com
 
 Resutados foram os mesmos do professor
 
-![passwd](https://github.com/user-attachments/assets/32692540-e9e9-49ea-a52a-ede1859a58dc)
+
+![resultado](https://github.com/user-attachments/assets/e240aa0f-a16d-432d-a69c-7b1e9c44d610)
